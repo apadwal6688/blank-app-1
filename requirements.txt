@@ -1,5 +1,5 @@
-streamlit==1.25.0  # Ensure compatibility with your code version
-python-pptx==0.6.21  # For handling PowerPoint files
-gTTS==2.3.2  # Google Text-to-Speech library
-anthropic==0.3.1  # Anthropics API library, ensure this matches your usage
-concurrent-futures==3.0.1  # Backport for concurrent features if using older Python
+streamlit
+python-pptx
+gTTS
+anthropic
+concurrent-futures
